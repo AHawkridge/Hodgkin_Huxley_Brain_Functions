@@ -2,7 +2,7 @@
 
 This repository contains Python implementations of the Hodgkin-Huxley Model, which simulates the action potential of a neuron using differential equations to describe the sodium and potassium ion channels. The Hodgkin-Huxley model represents a major breakthrough in understanding the ionic mechanisms involved in neuron excitability.
 
-##Table of Contents
+## Table of Contents
 
 [Overview](#Overview)   
 [Key_Concepts](#Key_Concepts)  
